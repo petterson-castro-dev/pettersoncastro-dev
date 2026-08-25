@@ -1,7 +1,7 @@
 #Olá! Eu sou Petterson Castro👋
 
 🎓Information Systems Student
-💻Currently learning Python & Java
+💻Currently learning Python 
 🚀Interested in Software development
 
 
